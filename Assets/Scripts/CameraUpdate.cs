@@ -36,7 +36,6 @@ public class CameraUpdate : MonoBehaviour {
             {
                 //Destroy(hit.transform.gameObject);
                 //print("Объект уничтожен");
-                
                 //print(newPosition);
 
                 if (hit.transform.tag == "Kiy")
